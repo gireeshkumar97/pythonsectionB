@@ -10,6 +10,3 @@ def prime(num):
         else:
             print('not aprime number')
 prime(89)
-
-
-        
